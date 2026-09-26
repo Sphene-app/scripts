@@ -49,7 +49,7 @@ curl -fsSL https://raw.githubusercontent.com/Sphene-app/scripts/main/install.sh 
 ## 2. Zero-Lock-In Guarantee: Standalone Vault Decryption
 
 > [!IMPORTANT]
-> **The Desert Island Test:** If Sphene company ceases to exist, our servers vanish, or you are stuck on a deserted island with only a standard Linux/macOS terminal, **you can decrypt all your notes with standard open-source tools.**
+> **The Desert Island Test:** If the Sphene app ceases to exist, you uninstall it, or you are stuck on a deserted island with only a standard Linux/macOS terminal, **you can decrypt all your notes with standard open-source tools.**
 
 You do **NOT** need Sphene installed. You only need:
 1. Your Sphene **Username** and **Password** (or your Vault Master Passphrase).

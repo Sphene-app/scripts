@@ -19,8 +19,8 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 echo -e "${CYAN}${BOLD}==============================================================================${NC}"
 echo -e "${CYAN}${BOLD}     SPHENE AEGIS — SOVEREIGN ZERO-LOCK-IN VAULT DECRYPTOR (BASH)     ${NC}"
 echo -e "${CYAN}${BOLD}==============================================================================${NC}"
-echo -e "Your data is 100% self-sovereign. If Sphene ceases to exist or you leave the"
-echo -e "platform, this script decrypts all your notes back to open standard Markdown."
+echo -e "Your data is 100% self-sovereign. If you stop using Sphene or uninstall the app,"
+echo -e "this script decrypts all your notes back to open standard Markdown in-place."
 echo -e ""
 
 # Verify Python 3 presence
